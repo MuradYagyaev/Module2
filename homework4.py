@@ -7,4 +7,4 @@ cars_count = 0
 for i in range(car_models.__len__()):
     print(f'Я езжу на автомобиле марки {car_models[i]}')
     cars_count += 10
-print(f'cars_count = {cars_count}')
+    print(f'cars_count = {cars_count}')
